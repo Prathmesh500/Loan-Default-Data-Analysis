@@ -1,0 +1,6 @@
+Requirements
+
+MS Excel
+MS SQL
+Power BI
+Data Gateway
